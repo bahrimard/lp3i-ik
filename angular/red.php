@@ -1,0 +1,1 @@
+<span style="background-color: red;color: #fff;">Red</span>

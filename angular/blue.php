@@ -1,0 +1,1 @@
+<span style="background-color: blue;">Blue</span>
